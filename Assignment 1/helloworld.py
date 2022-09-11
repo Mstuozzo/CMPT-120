@@ -6,11 +6,14 @@
 
 def main():
 
+    print("Hello World!")
 
 
-    michael
-    
-    
+color = "dark red"
+print("My favorite color is", color)
+
+birthday = "May 27, 2004"
+print("My birthday is:", birthday)
     
     
 main()
