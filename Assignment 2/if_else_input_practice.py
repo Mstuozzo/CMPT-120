@@ -9,5 +9,15 @@
 
 #additional instructions: instead of setting our variable to 10, what if we asked the user for the variable and used that value in our comparisons?
 def main():
+    var:int = 10
+    if var > 12:
+        print("10 is greater than 12 :3")
+    elif var > 11:
+        print("10 is greater than 11")
+    elif var == 10:
+        print("10 is equal to 10")
+
+
+
 
 main()
