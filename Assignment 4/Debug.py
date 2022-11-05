@@ -3,13 +3,13 @@ def main():
     var1= 10
     var2= 20
     #What do we put in here to make it work?
-    addition()
+    print(addition(var1, var2))
 
 
 
 def addition(x, y):
     #add x and y together and return them
-    return
+    return x + y
 
 
 main()
